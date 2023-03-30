@@ -2,6 +2,7 @@
 {
     "globalHeaders": {
         "Cache-Control": "max-age=600",
+        "Access-Control-Allow-Methods": "POST, GET, OPTIONS",
         "test": "123"
     }
 }
