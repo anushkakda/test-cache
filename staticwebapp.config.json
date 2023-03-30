@@ -1,6 +1,5 @@
 
 {
-
     "globalHeaders": {
         "Cache-Control": "max-age=600"
     }
